@@ -5,7 +5,7 @@
 
   
 # Project Overview
-Link: [weeklySchedule](https://661dcb400677a462568a56af--lambent-tulumba-c4af29.netlify.app/)
+Link: [weeklySchedule](https://661df347ef9bcc7eab003020--animated-dusk-0c3ad3.netlify.app/)
 
 
 # Built With:
